@@ -1,0 +1,9 @@
+{
+  "n": 1000,
+  "n_queries": 10000,
+  "range": 250,
+  "distance": "euclidean",
+  "data_path": "/home/arai/workspace/dataset/sift/sift_base/",
+  "query_path": "/home/arai/workspace/dataset/sift/sift_query.csv",
+  "save_path": "/home/arai/workspace/result/range-search/proposed/range250.csv"
+}
